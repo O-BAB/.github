@@ -24,6 +24,7 @@ O-BAB은 오늘의 식사 메뉴를 추천해주고, 필요한 레시피를 검�
 | **백엔드**      | Python, Django                                                                                  |
 | **DB**          | PostgreSQL                                                                                      |
 | **Infra**       | AWS, Route 53, SSL                                                                              |
+| **API**         | Kakao API, Google API, Naver API, OPENAI API                                                    |
 | **기타**        | SSE, Web Socket, SEO                                                                            |
 
 <br/>
