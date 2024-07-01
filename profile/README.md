@@ -1,12 +1,17 @@
-## Hi there 👋
+# O-BAB 서비스 소개
 
-<!--
+- 오늘의 식사 메뉴를 추천해주고, 내가 필요한 레시피를 검색할 수 있는 플랫폼
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📌 기능
+
+- OPENAI를 이용하여 날씨 및 그날 기분에 따라서 오늘의 식사 메뉴를 추천
+- 자신이 좋아하거나, 자주먹는 음식을 즐겨찾기
+- 검색과 동시에 추천된 음식의 리스트에서 음식을 골라 음식점 위치 확인 및 리뷰 확인하기
+- 냉장고에 남아 있는 재료를 가지고 만들 수 있는 레시피를 검색
+- 편의점 꿀조합 레시피 보기
+- 방송에서 핫한 레피시 보기
+- 음식 양념 레시피 보기
+
+<br>
+<br>
