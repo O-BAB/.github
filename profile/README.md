@@ -21,9 +21,9 @@ O-BAB은 오늘의 식사 메뉴를 추천해주고, 필요한 레시피를 검�
 | **분야**        | **기술 스택**                                                                                   |
 |-----------------|-------------------------------------------------------------------------------------------------|
 | **프론트엔드**  | JavaScript, React, Recoil, React-Query, HTML, CSS, TailwindCSS, Material UI                     |
-| **백엔드**      | Python, Django                                                                                  |
+| **백엔드**      | Python 3.11.6, Django 5.0.3, DRF 3.14.0                                                         |
 | **DB**          | PostgreSQL                                                                                      |
-| **Infra**       | AWS, Route 53, SSL                                                                              |
+| **Infra**       | AWS (계획 중), Route 53, SSL                                                                    |
 | **API**         | Kakao API, Google API, Naver API, OPENAI API                                                    |
 | **기타**        | SSE, Web Socket, SEO                                                                            |
 
